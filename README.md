@@ -1,3 +1,4 @@
+
 ## Olá! Eu sou o Paulo.🧔🏻🖖
 ---
 
@@ -8,7 +9,7 @@
 
 
 
-[![Guedes GitHub stats](https://github-readme-stats.vercel.app/api?username=guedespeter&theme=transparent)](https://github.com/guedespeter/github-readme-stats)
+[![Guedes GitHub stats](https://github-readme-stats.vercel.app/api?username=guedespeter&theme=midnight-purple)](https://github.com/guedespeter/github-readme-stats)
 
 
 
@@ -24,4 +25,4 @@
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guedespeter&theme=transparent)](https://github.com/guedespeter/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guedespeter&theme=midnight-purple)](https://github.com/guedespeter/github-readme-stats)
