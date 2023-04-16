@@ -26,3 +26,5 @@
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guedespeter&theme=midnight-purple)](https://github.com/guedespeter/github-readme-stats)
+
+![snake gif](https://github.com/guedespeter/guedespeter/blob/output/github-contribution-grid-snake.svg)
