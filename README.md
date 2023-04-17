@@ -1,8 +1,5 @@
 
-<h1 align="center">
-    Oi, tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/pauloeduardoguedes/">Paulo</a>🧔🏻
-  </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7CFC00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Paulo;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center" >
   <a href="https://www.linkedin.com/in/pauloeduardoguedes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -15,9 +12,11 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedespeter&theme=midnight-purple&hide_border=false&&layout=compact"/>
   </a>
 </div>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7CFC00&size=35&center=true&vCenter=true&width=1000&lines=Main+skills:)](https://git.io/typing-svg)
  
 <div align="center" style="display: inline_block"><br/>
-  <h2>Tecnologias usadas no meu dia a dia:</h2>
+  
   <img align="center" alt="HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
