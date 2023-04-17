@@ -1,10 +1,10 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7CFC00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Paulo;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7CFC00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Paulo;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center" >
-  <a href="https://www.linkedin.com/in/pauloeduardoguedes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:eduardopeter91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://discord.com/channels/@pauloeduardo"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pauloeduardoguedes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=midnight-purple" target="_blank"></a>
+  <a href="mailto:eduardopeter91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=midnight-purple" target="_blank"></a>
+   <a href="https://discord.com/channels/@pauloeduardo"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=midnight-purple" target="_blank"></a>
 </div>
 <div align="center">
   <a href="https://github.com/guedespeter">
@@ -13,7 +13,7 @@
   </a>
 </div>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7CFC00&size=35&center=true&vCenter=true&width=1000&lines=Main+skills:)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7CFC00&size=35&center=true&vCenter=true&width=1000&lines=Tecnologias+que+uso:)](https://git.io/typing-svg)
  
 <div align="center" style="display: inline_block"><br/>
   
