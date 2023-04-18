@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/GuedesPeter/38ac3792c36aefc294e026ec7e120e9d/raw/c2291d801481c15999acb1df9b9215d5cfc858d3/CardReadmeMini.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/GuedesPeter/a6529ad2aa98a6ebfbf28bb6b4d7d070/raw/2f7fe5b4520594276d44bb79ce6509bfad4ffa74/CardReadme.svg"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=500&lines=Olá+!;Eu+sou+o+Paulo+🧔🏻‍♂️;Bem+-+Vindo!+🖖🏻)](https://git.io/typing-svg)
 
