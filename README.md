@@ -5,9 +5,9 @@
 
   
 
-<p align="left">
-<img width="350em" height="200em" src="https://github-readme-stats.vercel.app/api?username=guedespeter&show_icons=true&theme=great-gatsby" alt="guedes stats"/>
-<img width="315em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedespeter&layout=compact&theme=great-gatsby" alt="guedes most languages"/>
+<p align="center">
+<img width="350em" src="https://github-readme-stats.vercel.app/api?username=guedespeter&show_icons=true&theme=great-gatsby" alt="guedes stats"/>
+<img width="315em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedespeter&layout=compact&theme=great-gatsby" alt="guedes most languages"/>
 </p>
 
 
