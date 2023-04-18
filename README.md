@@ -7,7 +7,7 @@
 
 <p align="center">
 <img width="350em" src="https://github-readme-stats.vercel.app/api?username=guedespeter&show_icons=true&theme=great-gatsby" alt="guedes stats"/>
-<img width="330em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedespeter&layout=compact&theme=great-gatsby" alt="guedes most languages"/>
+<img width="350em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedespeter&layout=compact&theme=great-gatsby" alt="guedes most languages"/>
 </p>
 
 
