@@ -16,14 +16,19 @@
 
 <div align="center" style="display: inline_block"><br/>
   
-  <img align="center" alt="HTML" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Python" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
-  <img align="center" alt="Js" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PostgreSql" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />       
-  <img align="center" alt="Git" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="HTML" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Python" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
+  <img align="center" alt="Js" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PostgreSql" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />       
+  <img align="center" alt="Git" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  
+  <a href="https://www.credly.com/badges/309ab3cf-5278-47c2-b17c-8c02c5386503/public_url">
+    <img align="center" src="https://github.com/user-attachments/assets/566d19c2-4fe9-4a8f-b596-94d6a1037546" alt="aws-academy-graduate-aws-academy-cloud-foundations" height="45" width="45"/>
+  </a>
           
 </div>
+
 
 ##
 
