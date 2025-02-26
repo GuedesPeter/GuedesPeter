@@ -1,12 +1,12 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/GuedesPeter/a6529ad2aa98a6ebfbf28bb6b4d7d070/raw/2f7fe5b4520594276d44bb79ce6509bfad4ffa74/CardReadme.svg"/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=500&lines=Olá+!;Eu+sou+o+Paulo;Bem+-+Vindo!+🖖🏻)](https://git.io/typing-svg)
 
   
 
 <p align="center">
-<img width="350em" src="https://github-readme-stats.vercel.app/api?username=guedespeter&show_icons=true&theme=great-gatsby" alt="guedes stats"/>
+<img width="460em" src="https://github-readme-stats.vercel.app/api?username=guedespeter&show_icons=true&theme=great-gatsby" alt="guedes stats"/>
 <img width="350em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedespeter&layout=compact&theme=great-gatsby" alt="guedes most languages"/>
 </p>
 
