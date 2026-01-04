@@ -32,7 +32,4 @@
 
 ---
 
-<p align="center">
-  <img width="460em" src="https://github-readme-stats.vercel.app/api?username=guedespeter&show_icons=true&theme=great-gatsby" alt="GitHub Stats"/>
-  <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedespeter&layout=compact&theme=great-gatsby" alt="Top Languages"/>
-</p>
+
