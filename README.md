@@ -7,11 +7,12 @@
   Sou formado em <strong>Análise e Desenvolvimento de Sistemas pelo UNISENAC - RS</strong>.    
 
   Atualmente, atuo como <strong>Analista de Sistemas</strong>, com experiência em manutenção de sistemas, suporte ao usuário e otimização de processos.  
-  Estou ampliando meus conhecimentos em <strong>Dados, com foco em SQL Server (T-SQL), BI e Processos Gerenciais</strong> para atender às demandas do mercado de trabalho.
+  Estou ampliando meus conhecimentos em <strong>Dados, com foco em SQL Server (T-SQL), DBA(Database Administrator)</strong> para atender às demandas do mercado de trabalho.
 </p>
 
 <p align="left">
-  💼 Linguagens e Tecnologias: <strong>Python, SQL Server, BI, Docker, Git, Azure, AWS</strong>
+  💼 Linguagens e Tecnologias: <strong>Python, SQL Server,Docker, Git, Azure, AWS</strong>
+  <strong>Integrante da Comunidade SQL Server Expert</strong>
 </p>
 
 <p align="left">
