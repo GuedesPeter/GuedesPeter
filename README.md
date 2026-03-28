@@ -1,9 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Olá!  Eu sou o <strong>Paulo</strong>  <br>
+## Olá!  Eu sou o <strong>Paulo</strong>  
+---
 
-  ---
+<p align="left"> 
+  
   Sou formado em <strong>Análise e Desenvolvimento de Sistemas pelo UNISENAC - RS</strong>.    
 
   Atualmente, atuo como <strong>Analista de Sistemas</strong>, com experiência em manutenção de sistemas, suporte ao usuário e otimização de processos.  
