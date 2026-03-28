@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá!  Eu sou o <strong>Paulo</strong> 🖖🏻 <br>
+  Olá!  Eu sou o <strong>Paulo</strong>  <br>
 
   ---
   Sou formado em <strong>Análise e Desenvolvimento de Sistemas pelo UNISENAC - RS</strong>.    
@@ -12,7 +12,9 @@
 
 <p align="left">
   💼 Linguagens e Tecnologias: <strong>Python, SQL Server,Docker, Git, Azure, AWS</strong>
-  <strong>Integrante da Comunidade SQL Server Expert</strong>
+
+  
+  🖖🏻 Integrante da <strong>Comunidade SQL Server Expert</strong>
 </p>
 
 <p align="left">
